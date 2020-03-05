@@ -4,10 +4,10 @@ This repository is an attempt to code up a few visualization techniques in **Ten
 
 It is recommended that you see the notebooks in the order given below as it builds up from intuition based visualization techniques to optimization based techniques.
 
-1.  [occlusion_experiment.ipynb](./occlusion_experiment.ipynb)
-2.  [filter_visualization.ipynb](./filter_visualization.ipynb)
-3.  [activation_maximization.ipynb](./activation_maximization.ipynb)
-4.  [saliency_map.ipynb](./saliency_map.ipynb)
-5.  [grad_cam.ipynb](./grad_cam.ipynb)
+1.  occlusion_experiment.ipynb
+2.  filter_visualization.ipynb
+3.  activation_maximization.ipynb
+4.  saliency_map.ipynb
+5.  grad_cam.ipynb
 
-I have tried my best to reproduce the techniques presented in those papers and please feel free to provide any improvements and suggestions.
+I have tried my best to reproduce the techniques presented in those papers. Please feel free to provide any improvements and suggestions.
